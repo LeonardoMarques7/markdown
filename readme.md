@@ -4,7 +4,7 @@
 
 ## Páginas:
 
-*Sobre, Contato, Cursos*
+*Sobre, **Contato**, Cursos*
 
 ##### Observações do projeto
 
