@@ -29,6 +29,14 @@ O blog foi criado para incentivar a comunicação e o engajamento entre a comuni
 
 Para dúvidas ou sugestões, entre em contato com a administração do blog via [e-mail](mailto:nexuscommunity07@gmail.com).
 
+
+## 👨‍💻 Criadores 
+
+- Geovanna Terra
+- Leonardo Emanuel
+- Manoela Xisto
+- Matteus Guilherme
+- Nátalia Hidemi
 ---
 
 🌟 **Conectando a Etec Fernando Prestes com a sua comunidade!**
