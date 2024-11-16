@@ -1,5 +1,4 @@
 ![Logo da Etec Fernando Prestes](static/logo.svg)
-![Logo do Governo de São Paulo](https://www.saopaulo.sp.gov.br/wp-content/uploads/2023/06/gov-sp-vertical.png)
 # Blog da Etec Fernando Prestes
 
 Bem-vindo ao **Blog da Etec Fernando Prestes**! Este é um espaço digital para compartilhar as notícias, eventos e atividades que acontecem na nossa escola, localizada em Sorocaba, SP.
