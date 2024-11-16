@@ -10,10 +10,6 @@ Bem-vindo ao **Blog da Etec Fernando Prestes**! Este é um espaço digital para 
 - **Personalização de Perfil**: Adicione foto ao perfil e insira suas redes sociais.
 - **Tags (Hashtags)**: Organize postagens usando palavras-chave.
 
-## 🛠️ Como Contribuir
-
-Se você é estudante ou professor da Etec Fernando Prestes, entre em contato com os administradores do blog para enviar conteúdo ou sugerir melhorias.
-
 ## 📱 Tecnologias Utilizadas
 
 - Frontend: HTML, CSS, JavaScript
