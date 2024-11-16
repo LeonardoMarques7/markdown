@@ -5,7 +5,7 @@ Bem-vindo ao **Blog da Etec Fernando Prestes**! Este é um espaço digital para 
 
 ## 🌐 Site 
 
-Clique aqui para acessar nosso Blog: [Blog Etec Fernando Prestes][https://blog-fp.infinityfreeapp.com]
+Clique aqui para acessar nosso Blog: [Blog Etec Fernando Prestes](https://blog-fp.infinityfreeapp.com)
 
 ## 🚀 Funcionalidades
 
