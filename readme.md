@@ -18,7 +18,7 @@ Clique aqui para acessar nosso Blog: [Blog Etec Fernando Prestes](https://blog-f
 ## 📱 Tecnologias Utilizadas
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: PHP ```php <?php echo Hello Wolrd!?>```
+- Backend: PHP
 - Banco de Dados: MySQL
 
 ## 🎯 Objetivo
