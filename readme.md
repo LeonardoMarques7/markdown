@@ -1,4 +1,4 @@
-![Logo da Etec Fernando Prestes](static/logo.svg)
+![Logo da Etec Fernando Prestes](static/logo_site_github.png)
 # Blog da Etec Fernando Prestes
 
 Bem-vindo ao **Blog da Etec Fernando Prestes**! Este é um espaço digital para compartilhar as notícias, eventos e atividades que acontecem na nossa escola, localizada em Sorocaba, SP.
