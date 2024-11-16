@@ -3,6 +3,10 @@
 
 Bem-vindo ao **Blog da Etec Fernando Prestes**! Este é um espaço digital para compartilhar as notícias, eventos e atividades que acontecem na nossa escola, localizada em Sorocaba, SP.
 
+## 🌐 Site 
+
+Clique aqui para acessar nosso Blog: [Blog Etec Fernando Prestes][https://blog-fp.infinityfreeapp.com]
+
 ## 🚀 Funcionalidades
 
 - **Postagens com Fotos e Vídeos**: Compartilhe momentos importantes com imagens e conteúdos multimídia.
